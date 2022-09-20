@@ -2,11 +2,7 @@
 
 <p> 
 <img src="https://github.com/GabrielaOjcius/README.md/blob/main/images/perfil%20digital%20redes.jpeg" align="right" width="200">
-
-<br>
-🔢 Siempre me gustaron los números y la matemática y cada oportunidad que tengo trasmito mi pasión por ellos. 
-<br>
-👩‍🏫 Me formé académicamente como profesora de matemática y me especialicé en educación en entornos virtuales. 
+👩‍🏫 Me formé académicamente como profesora de matemática 🔢y me especialicé en educación en entornos virtuales. 
 <br>
 En constante evolución, encontré un nuevo rumbo en el mundo digital 🚀
 <br>
