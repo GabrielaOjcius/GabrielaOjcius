@@ -2,7 +2,7 @@
 
 <p> 
 <img src="https://github.com/GabrielaOjcius/README.md/blob/main/images/perfil%20digital%20redes.jpeg" align="right" width="200">
-👩‍🏫 Me formé académicamente como profesora de matemática 🔢y me especialicé en educación en entornos virtuales. 
+👩‍🏫 Soy profesora de matemática 🔢 y me especialicé en educación en entornos virtuales. 
 <br>
 En constante evolución, encontré un nuevo rumbo en el mundo digital 🚀
 <br>
