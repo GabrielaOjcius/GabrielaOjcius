@@ -6,9 +6,9 @@
 <br>
 En constante evolución, encontré un nuevo rumbo en el mundo digital 🚀
 <br>
-En plena reconversión laboral 🚧 y como soy una apasionada de los <strong>datos</strong> 👩‍💻 actualmente estudio ciencia de datos 📈
+En plena reconversión laboral 🚧 y como soy una apasionada de los <strong>datos</strong> 👩‍💻 me formé en Análisis de datos 📈
 <br>
-Tengo conocimientos ebn las herramientas de <strong>Power Bi y QlikView y QlikSense</strong> 📊 para la creación y visualización de reportes y del lenguaje de consultas <strong>SQL</strong>
+Tengo conocimientos en las herramientas <strong>Power Bi y QlikView y QlikView</strong> 📊 para la creación y visualización de reportes y del lenguaje de consultas <strong>SQL</strong>
 <br>
 Con respecto a lenguajes de programación, estoy encantada con <strong>Python</strong> 🐍
 
