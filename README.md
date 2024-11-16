@@ -2,11 +2,9 @@
 
 <p> 
 <img src="https://github.com/GabrielaOjcius/README.md/blob/main/images/perfil%20digital%20redes.jpeg" align="right" width="200">
-👩‍🏫 Soy profesora de matemática 🔢 y me especialicé en educación en entornos virtuales. 
+👩‍🏫 Soy matemática 🔢 y me especialicé en educación en entornos virtuales. 
 <br>
-En constante evolución, encontré un nuevo rumbo en el mundo digital 🚀
-<br>
-En plena reconversión laboral 🚧 y como soy una apasionada de los <strong>datos</strong> 👩‍💻 me formé en Análisis de datos 📈
+En constante evolución, y como soy una apasionada de los <strong>datos</strong> 👩‍💻 me formé en Análisis de datos 📈
 <br>
 Tengo conocimientos en las herramientas <strong>Power Bi y QlikView</strong> 📊 para la creación y visualización de reportes y del lenguaje de consultas <strong>SQL</strong> 
 <br>
